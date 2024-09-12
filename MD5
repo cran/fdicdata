@@ -1,4 +1,4 @@
-70c059fba6c7d68100020b686b9d469d *DESCRIPTION
+a00c2bbc8a741aa2d0ea07c1a75b4c9b *DESCRIPTION
 23fb0e35a985cc5cd7444af31e007dd3 *LICENSE
 45bffce5fd5cc2542ea9597a40420f32 *NAMESPACE
 45d729430f15e99e60b6f8c517f7ee6b *R/cert2idrssd.R
@@ -12,7 +12,7 @@ a2cbcb66ac3d6ebd8749218d939b4cad *R/getInstitutionsAll.R
 f93a5eb537f2c71432e3d20c7dec5b3f *R/getSummary.R
 e2da8bc664602b777e6f22459bff1c6a *R/getTaxonomy.R
 bc7a5b0d37cd55edc197228a68342712 *R/states2URL.R
-be0bacb9610169ccca9bad7e1f0ebadc *README.md
+181b5a6bc192314ffffa0e191c791d08 *README.md
 a0e86c087975c30c69c449bdc8375284 *man/cert2idrssd.Rd
 db065654dd5ac3140771a928ca7f5d44 *man/dataTaxonomy.Rd
 6cc7baae5aa051e9bfc0fcaed2e239ae *man/getFailures.Rd
@@ -31,6 +31,5 @@ f176bcf82c4410a445e5c5717ac59b03 *tests/testthat/test-getFailures.R
 8ad367ae77098406a00dd22bb295d9fd *tests/testthat/test-getFinancials.R
 4ef8ebbef54fb08210bae2ffd168c790 *tests/testthat/test-getHistory.R
 bb0f6e702671cfc7a1d883d400a939f4 *tests/testthat/test-getInstitution.R
-d541b8f2017aa6ba0cf63d6a7f3b988a *tests/testthat/test-getInstitutionsAll.R
 f0741619ec2ffd65955348d083887c17 *tests/testthat/test-getLocation.R
 9a92eb4ac454729eb3ed6450c6cbf710 *tests/testthat/test-getSummary.R

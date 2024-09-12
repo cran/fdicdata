@@ -1,16 +1,25 @@
 <img align="right" width="220" height="240" src="https://drive.google.com/uc?export=download&id=1PtkcqH3YYrlMaqz79pbWJosSVNW4hnba">
 
 # fdicdata
-
 <!-- badges: start -->
 [![Lifecycle: stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)
-[![CRAN status](https://www.r-pkg.org/badges/version/fdicdata)](https://CRAN.R-project.org/package=fdicdata)
-
+[![CRAN status](https://www.r-pkg.org/badges/version/fdicdata)](https://cran.r-project.org/package=fdicdata)
+[![](https://cranlogs.r-pkg.org/badges/fdicdata)](https://CRAN.R-project.org/packages=fdicdata)
+[![](http://cranlogs.r-pkg.org/badges/last-week/fdicdata?color=green)](https://cran.r-project.org/package=fdicdata)
 <!-- badges: end -->
 
 The fdicdata R package provides a set of functions for working with data from the Federal Deposit Insurance Corporation (FDIC), including retrieving financial data for FDIC-insured institutions and accessing the data taxonomy.
 
+
 ## Installation
+
+### From CRAN
+
+```r 
+install.packages("fdicdata")
+```
+
+### From GitHub
 
 ``` r
 remotes::install_github("Visbanking/fdicdata",ref="main")
